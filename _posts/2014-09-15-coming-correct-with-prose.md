@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Coming Correct With Prose
 ---
@@ -16,4 +16,3 @@ The latest update included the following advances:
 - proper usage of `{{ site.baseurl }}{{ post.url }}` when linking to blog posts from source file.
 
 __OK LET's GO!__
-
