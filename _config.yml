@@ -6,4 +6,4 @@ github_username: brianzelip
 
 # Build settings
 markdown: kramdown
-permalinks: pretty
+permalink: pretty
