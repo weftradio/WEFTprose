@@ -1,0 +1,9 @@
+# Site settings
+title: WEFTprose
+email: bzelip@gmail.com
+description: "Sandbox space for experimenting with Prose.io as a multi-author solution to WEFT x Jekyll."
+github_username: brianzelip
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
